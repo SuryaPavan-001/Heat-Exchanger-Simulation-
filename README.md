@@ -19,7 +19,7 @@ This project simulates heat exchanger behavior for both **co-current** and **cou
   - Co-Current Heat Exchanger
   - Counter-Current Heat Exchanger
 - Visualize temperature profiles along exchanger length.
-- Modular and reusable code structure.
+
 
 ---
 
